@@ -10,9 +10,7 @@ h2{
 .name{
     color: orange;
 }
-p{
-    text-align: justify;
-}
+
 .flexible-container{
     display: flex;
     margin-bottom: 20px;
@@ -22,7 +20,7 @@ p{
     width: 50%;
     padding-left: 5%;
     padding-top: 5%;
-padding-right: 5%;
+   padding-right: 5%;
 }
 .half-width img{
     width: 80%;
@@ -48,7 +46,7 @@ padding-right: 5%;
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: 100% 100%;
 }
 
 .experience-area{
@@ -56,7 +54,6 @@ padding-right: 5%;
     background-repeat: no-repeat;
     background-position: left;
 }
-
 .experience-item{
 width: 40%;
     box-shadow: 10px 10px 50px gray;
