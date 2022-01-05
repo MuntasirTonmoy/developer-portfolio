@@ -42,11 +42,14 @@ h2{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+p{
+    text-align: justify;
+}
 
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: 100% 100%;
+    background-position: right;
 }
 
 .experience-area{
